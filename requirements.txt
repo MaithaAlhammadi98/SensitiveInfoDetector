@@ -1,3 +1,5 @@
 gradio==4.44.0
 transformers==4.44.2
 torch           # Colab installs the right CUDA build automatically
+huggingface_hub
+
