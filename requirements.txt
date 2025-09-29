@@ -1,5 +1,9 @@
+torch>=2.0.0
+transformers>=4.40.0
+datasets>=2.20.0
+evaluate>=0.4.1
+huggingface_hub>=0.23.0
+safetensors>=0.4.0
+scikit-learn>=1.3.0
 gradio==4.44.0
-transformers==4.44.2
-torch           # Colab installs the right CUDA build automatically
-huggingface_hub
 
