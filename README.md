@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Sensitive Info Detector Banner" width="800"/>
+</p>
+
 # 🔐 SensitiveInfoDetector  
 *A hybrid NLP system for detecting sensitive information (EMAIL + SECRET) using a fine-tuned DistilBERT model and regex rules.*
 
