@@ -13,6 +13,17 @@ It integrates a **transformer-based model (DistilBERT)** with **rule-based patte
 
 ---
 
+## 🖼️ App Previews
+
+|           Example          |                          Screenshot                          |
+| :------------------------: | :----------------------------------------------------------: |
+| ✅ No Sensitive Information | <img src="assets/No sensitive information.png" width="500"/> |
+|         ⚠️ Warning         |          <img src="assets/Warning.png" width="500"/>         |
+|         🚨 Critical        |         <img src="assets/Critical.png" width="500"/>         |
+|      ⚠️ + 🚨 Combined      |    <img src="assets/Warning & Critical.png" width="500"/>    |
+
+---
+
 ## 🚀 Quick Start (Colab / Local)
 
 Clone the repository:
