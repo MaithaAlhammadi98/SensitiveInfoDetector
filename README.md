@@ -46,6 +46,25 @@ Launch the Gradio demo:
 
 ---
 
+## 🧠 Dataset Details
+
+This project uses a custom synthetic dataset designed for sensitive-information detection.
+All samples are anonymized and ethically generated.
+
+| Aspect           | Description                                  |
+| :--------------- | :------------------------------------------- |
+| **Data Source**  | Synthetic / publicly available text snippets |
+| **Entities**     | EMAIL, SECRET (API keys, passwords, tokens)  |
+| **Annotation**   | Manual labeling with Python span tagging     |
+| **Dataset Size** | ≈ 1 500 train / 500 eval samples             |
+| **Balance**      | Equal EMAIL and SECRET representation        |
+| **Ethical Note** | No real personal data used                   |
+
+
+🧩 The dataset trains the DistilBERT model to recognize and label sensitive entities within text data.
+
+---
+
 ## 🧩 Architecture
 
 | Component           | Description                                                            |
