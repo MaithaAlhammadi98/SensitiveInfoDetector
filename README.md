@@ -117,10 +117,4 @@ This project is licensed under the **MIT License** — free for academic and res
 
 ---
 
-```
 
----
-
-
-Would you like me to make the banner image next?
-```
