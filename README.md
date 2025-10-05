@@ -26,7 +26,7 @@ pip install -r requirements.txt
 Launch the Gradio demo:
 
 ```bash
-python gradio_app.py
+python app/gradio_app.py
 ```
 
 ---
