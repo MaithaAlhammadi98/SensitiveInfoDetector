@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🔐 SensitiveInfoDetector  
 *A hybrid NLP system for detecting sensitive information (EMAIL + SECRET) using a fine-tuned DistilBERT model and regex rules.*
 
