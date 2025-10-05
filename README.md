@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Sensitive Info Detector Banner" width="800"/>
+  <img src="assets/Banner.png" alt="Sensitive Info Detector Banner" width="800"/>
 </p>
 
 # 🔐 SensitiveInfoDetector  
