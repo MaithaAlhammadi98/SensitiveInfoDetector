@@ -24,24 +24,24 @@ It integrates a **transformer-based model (DistilBERT)** with **rule-based patte
 
 ---
 
-## 🚀 Quick Start (Colab / Local)
+## 🚀App Quick Launch (Colab / Local)
 
 Clone the repository:
 ```bash
-git clone https://github.com/MaithaAlhammadi98/SensitiveInfoDetector.git
-cd SensitiveInfoDetector
+!git clone https://github.com/MaithaAlhammadi98/SensitiveInfoDetector.git
+%cd SensitiveInfoDetector
 ````
 
 Install dependencies:
 
 ```bash
-pip install -r requirements.txt
+!pip install -r requirements.txt
 ```
 
 Launch the Gradio demo:
 
 ```bash
-python app/gradio_app.py
+!python app/gradio_app.py
 ```
 
 ---
