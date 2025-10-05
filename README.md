@@ -7,7 +7,7 @@ Web demo that loads a fine-tuned DistilBERT (`model_distilbert/`) and detects em
 
 ## Quick start (Colab)
 ```bash
-!git clone https://github.com/<you>/SensitiveInfoDetector.git
+!git clone https://github.com/MaithaAlhammadi98/SensitiveInfoDetector.git
 %cd SensitiveInfoDetector
 !pip install -r requirements.txt
 !python gradio_app.py
