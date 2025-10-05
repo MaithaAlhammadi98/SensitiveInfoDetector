@@ -1,13 +1,13 @@
-# SensitiveInfoDetector
+# 🔐 SensitiveInfoDetector
 
+A hybrid **Sensitive Information Detection** system that identifies **emails** and **secrets (tokens/passwords)** in text using a fine-tuned **DistilBERT** model combined with **regex rules**.
 
-# Sensitive Info Detector (EMAIL + SECRET)
+---
 
-Web demo that loads a fine-tuned DistilBERT (`model_distilbert/`) and detects emails + secrets (tokens/passwords), combining regex rules with the model. No training is run at launch.
+## 🚀 Quick Start (Colab / Local)
 
-## Quick start (Colab)
 ```bash
-!git clone https://github.com/MaithaAlhammadi98/SensitiveInfoDetector.git
-%cd SensitiveInfoDetector
-!pip install -r requirements.txt
-!python gradio_app.py
+git clone https://github.com/MaithaAlhammadi98/SensitiveInfoDetector.git
+cd SensitiveInfoDetector
+pip install -r requirements.txt
+python gradio_app.py
